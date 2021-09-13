@@ -8,7 +8,7 @@ Step1:
 
 Step2:
 
-![EggTimer App Step2](Egg2.png)
+![EggTimer App Step2](Eggstep2.png)
 
 Step3:
 
