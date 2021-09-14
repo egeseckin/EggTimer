@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  EggTimer
 //
-//  Created by Angela Yu on 08/07/2019.
-//  Copyright © 2019 The App Brewery. All rights reserved.
+//  Created by egeseckin on 08/09/2021.
+//  Copyright © 2021 Ege Seckin. All rights reserved.
 //
 
 import UIKit
